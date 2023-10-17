@@ -3,8 +3,8 @@ import tasks from "../tasks";
 import { Button, Table } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { useNavigate, Link } from "react-router-dom";
-import { SiInstagram, SiBehance } from "https://cdn.skypack.dev/react-icons@4.8.0/si";
-import { FaLinkedinIn,  } from "https://cdn.skypack.dev/react-icons@4.8.0/fa";
+import { SiInstagram, SiBehance } from "react-icons/si";
+import { FaLinkedinIn } from "react-icons/fa";
 
 
 export const Home = () => {
